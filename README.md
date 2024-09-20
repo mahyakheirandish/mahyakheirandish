@@ -1,3 +1,4 @@
+![logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*UV6lmYquXIyAYfszxXuS4A.jpeg)
 <h1 align="center">Hi 👋, I'm Mahya</h1>
 <h3 align="center">Electronic engineering student from Iran</h3>
 <img align="right" alt="mahyakheirandish"width = "400"src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
