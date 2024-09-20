@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahya</h1>
 <h3 align="center">Electronic engineering student from Iran</h3>
-
-<img align="right"> <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif
+<img align="right" alt="mahyakheirandish"width = "400"src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahyakheirandish&label=Profile%20views&color=0e75b6&style=flat" alt="mahyakheirandish" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahyakheirandish](https://github.com/mahyakheirandish)
